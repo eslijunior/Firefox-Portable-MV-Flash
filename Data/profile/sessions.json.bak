@@ -1,0 +1,67 @@
+{
+    "version ": 1,
+    "sessions": [
+        {
+            "name": "Last Session",
+            "windows": [
+                {
+                    "width": 1260,
+                    "height": 909,
+                    "screenX": 368,
+                    "screenY": 46,
+                    "state": 3,
+                    "tabs": [
+                        {
+                            "index": 1,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "entries": [
+                                {
+                                    "url": "http://mvprd.saude.go.gov.br/mvautenticador-cas/login?service=http%3A%2F%2Fmvprd.saude.go.gov.br%3A80%2Fsoul-mv%2Fcas",
+                                    "title": "Central de Autenticação MV"
+                                },
+                                {
+                                    "url": "http://mvprd.saude.go.gov.br/mvautenticador-cas/login?service=http%3A%2F%2Fmvprd.saude.go.gov.br%3A80%2Fsoul-mv%2Fcas",
+                                    "title": "Central de Autenticação MV"
+                                }
+                            ]
+                        }
+                    ],
+                    "selected": 0
+                }
+            ],
+            "selectedWindow": 0
+        },
+        {
+            "name": "Previous Session",
+            "windows": [
+                {
+                    "width": 1260,
+                    "height": 909,
+                    "screenX": 368,
+                    "screenY": 46,
+                    "state": 3,
+                    "tabs": [
+                        {
+                            "index": 1,
+                            "scrollX": 0,
+                            "scrollY": 0,
+                            "entries": [
+                                {
+                                    "url": "http://mvprd.saude.go.gov.br/mvautenticador-cas/login?service=http%3A%2F%2Fmvprd.saude.go.gov.br%3A80%2Fsoul-mv%2Fcas",
+                                    "title": "Central de Autenticação MV"
+                                },
+                                {
+                                    "url": "http://mvprd.saude.go.gov.br/mvautenticador-cas/login?service=http%3A%2F%2Fmvprd.saude.go.gov.br%3A80%2Fsoul-mv%2Fcas",
+                                    "title": "Central de Autenticação MV"
+                                }
+                            ]
+                        }
+                    ],
+                    "selected": 0
+                }
+            ],
+            "selectedWindow": 0
+        }
+    ]
+}
